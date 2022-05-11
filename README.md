@@ -2,7 +2,7 @@
 Project - Computer Programming : IT19 - KMITL 
 
 # รายละเอียด 📝
-<div>
+<div border-left=".20em solid gray">
 DTB & BTD ย่อมาจาก Decimal To Binary and Binary To Decimal เป็น.........
 </div>
 
