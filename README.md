@@ -14,6 +14,6 @@
 </blockquote>
 
 # SOURCE CODE 📌 
-<a href="https://wokwi.com/projects/330524604998091346" target="_top">
+<a href="https://wokwi.com/projects/330524604998091346" target="_blank">
     • DTB & BTD - WOKWI (Description)
 </a>
