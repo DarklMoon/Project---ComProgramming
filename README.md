@@ -13,5 +13,7 @@
 
 </blockquote>
 
-# SOURCE CODE 📌
-• https://wokwi.com/projects/330524604998091346
+# SOURCE CODE 📌 
+<a herf="https://wokwi.com/projects/330524604998091346" target="_blink">
+    • https://wokwi.com/projects/330524604998091346
+</a>
