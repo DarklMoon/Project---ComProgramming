@@ -26,3 +26,6 @@
 <a href="https://wokwi.com/projects/331467577799737939" target="_blank">
     • Decimal and Binary converter - WOKWI (Pure Code)
 </a>
+
+<div url="https://cdn.discordapp.com/attachments/962560411222306816/974705258729177148/Poster-final.jpg">
+</div>
