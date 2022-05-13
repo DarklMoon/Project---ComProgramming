@@ -10,13 +10,19 @@
 </a>
 
 # SOURCE CODE 📌 
+<u>
 <a href="https://wokwi.com/projects/330524604998091346" target="_blank">
     • Decimal and Binary converter - WOKWI (Description)
 </a>
+  </u>
+  
 <br>
+
+<u>
 <a href="https://wokwi.com/projects/331467577799737939" target="_blank">
     • Decimal and Binary converter - WOKWI (Pure Code)
 </a>
+  </u>
 
 # POSTER 🖼
 <img src="https://cdn.discordapp.com/attachments/962560411222306816/974705258729177148/Poster-final.jpg">
