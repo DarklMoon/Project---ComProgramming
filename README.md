@@ -23,7 +23,7 @@
   
 # วิดีโอสาธิต ▶
 <a href="https://www.youtube.com/watch?v=9GtXYio5GWA" target="_blank">
-    • Decimal and Binary converter - Video
+    • Decimal and Binary converter - VIDEO
 </a>
 
 # POSTER 🖼
