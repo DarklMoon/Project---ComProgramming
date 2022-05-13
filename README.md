@@ -12,18 +12,18 @@
 # SOURCE CODE 📌 
 
 <a href="https://wokwi.com/projects/330524604998091346" target="_blank">
-   <u> • Decimal and Binary converter - WOKWI (Description)</u>
+   • Decimal and Binary converter - WOKWI (Description)
 </a>
  
 <br>
 
 <a href="https://wokwi.com/projects/331467577799737939" target="_blank">
-    <u>• Decimal and Binary converter - WOKWI (Pure Code)</u>
+    • Decimal and Binary converter - WOKWI (Pure Code)
 </a>
   
 # วิดีโอสาธิต ▶
 <a href="https://www.youtube.com/watch?v=9GtXYio5GWA" target="_blank">
-    <u>• Decimal and Binary converter - Video</u>
+    • Decimal and Binary converter - Video
 </a>
 
 # POSTER 🖼
